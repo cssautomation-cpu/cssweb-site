@@ -1,0 +1,5 @@
+2024-12-07T07:52:08+00:00 ERROR The SKU (PRODBBC66651) you are trying to insert is already under processing CONTEXT: {"error":"woocommerce_rest_product_not_created","code":400}
+2024-12-07T07:54:09+00:00 ERROR The SKU (PRODBBC66651) you are trying to insert is already under processing CONTEXT: {"error":"woocommerce_rest_product_not_created","code":400}
+2024-12-07T07:56:08+00:00 ERROR The SKU (PRODBBC66651) you are trying to insert is already under processing CONTEXT: {"error":"woocommerce_rest_product_not_created","code":400}
+2024-12-07T08:32:07+00:00 ERROR The SKU (PRODBBC66651) you are trying to insert is already under processing CONTEXT: {"error":"woocommerce_rest_product_not_created","code":400}
+2024-12-07T08:42:08+00:00 ERROR The SKU (PRODBBC66651) you are trying to insert is already under processing CONTEXT: {"error":"woocommerce_rest_product_not_created","code":400}
